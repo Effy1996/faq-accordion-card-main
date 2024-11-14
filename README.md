@@ -42,8 +42,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [https://effy1996.github.io/faq-accordion-card-main/](https://your-solution-url.com](https://effy1996.github.io/faq-accordion-card-main/)
-- Live Site URL: [https://effy1996.github.io/faq-accordion-card-main/](https://your-live-site-url.com](https://effy1996.github.io/faq-accordion-card-main/)
+- Solution URL: [https://effy1996.github.io/faq-accordion-card-main/](https://effy1996.github.io/faq-accordion-card-main/)
+- Live Site URL: [https://effy1996.github.io/faq-accordion-card-main/](https://effy1996.github.io/faq-accordion-card-main/)
 
 ## My process
 
